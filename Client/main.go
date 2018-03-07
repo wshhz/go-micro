@@ -9,7 +9,7 @@ import (
 	microclient "github.com/micro/go-micro/client"
 	"github.com/micro/go-micro/cmd"
 	"golang.org/x/net/context"
-	pb "wshhz.com/go-micro/Proto"
+	pb "wshhz.com/go-micro/Proto/Consignment"
 )
 
 const (
